@@ -1,0 +1,67 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color:#CFEEFF; /*same as WUVT main site*/
+}
+
+#addForm {
+    width: 50%;
+    padding: 10px;
+    border: 5px solid black;
+    margin: auto;
+    background-color: #f2faff; /*same as WUVT main site*/
+}
+
+#addReleaseTitle {
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    margin: 15px;
+}
+
+#pageTitle {
+    font-size: 40pt;
+}
+
+#releaseList {
+    font-size: 12pt;
+}
+
+#release {
+    /*original styles before ColorThief*/
+    /*box-shadow: 5px 5px 5px red;*/
+    /*background-color:rgb(206, 243, 255);*/
+    width: 90%;
+    border: 5px solid black;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+
+#releaseInfo {
+    padding: 10px;
+}
+
+img.cover {
+    width: 100%;
+}
+
+img.logo {
+    width: 300px;
+    vertical-align: middle;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+.title {
+    font-style: italic;
+}
