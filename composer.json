@@ -1,0 +1,7 @@
+{
+    "name": "wuvt/rotation-site",
+    "description": "Website for viewing new music at the station currently on rotation",
+    "type": "project",
+    "license": "AGPLv3",
+    "require": {}
+}
